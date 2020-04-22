@@ -16,17 +16,18 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: 
 
 Vulnerability #2: __________________
 
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: User Enumeration
+![](EramUserEnumerationGIF.gif)
 
-Vulnerability #2: __________________
-
+Vulnerability #2: Cross-Site Scripting 
+![](EramCrossSiteScriptingGIF.gif)
 
 ## Red
 
@@ -37,6 +38,6 @@ Vulnerability #2: __________________
 
 ## Notes
 
-Describe any challenges encountered while doing the work
-User Enumeration took a while for me to figure out as wpscan couldn't run on this site.
+Describe any challenges encountered while doing the work : 
+1) User Enumeration took a while for me to figure out as I didn't pay attention to the bolding.
 
