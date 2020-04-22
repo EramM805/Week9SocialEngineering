@@ -16,24 +16,26 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: 
-
-Vulnerability #2: __________________
+Vulnerability #1: Session Hijacking/Fixation
+![](EramSessionHijackingGIF.gif)
+Vulnerability #2: SQL Injection 
+![](EramSQLInjectionGIF.gif)
 
 
 ## Green
 
-Vulnerability #1: User Enumeration
+Vulnerability #1: Username Enumeration
 ![](EramUserEnumerationGIF.gif)
 
-Vulnerability #2: Cross-Site Scripting 
+Vulnerability #2: Cross-Site Scripting (XSS)
 ![](EramCrossSiteScriptingGIF.gif)
 
 ## Red
 
-Vulnerability #1: __________________
-
-Vulnerability #2: __________________
+Vulnerability #1: Insecure Direct Object Reference (IDOR)
+![](EramIDORGIF.gif)
+Vulnerability #2: Cross-Site Request Forgery (CSRF)
+![])(EramCrossSiteScriptingGIF.gif)
 
 
 ## Notes
