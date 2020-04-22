@@ -35,7 +35,7 @@ Vulnerability #2: Cross-Site Scripting (XSS)
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
 ![](EramIDORGIF.gif)
 Vulnerability #2: Cross-Site Request Forgery (CSRF)
-![])(EramCrossSiteScriptingGIF.gif)
+![](EramCSRFGIF.gif)
 
 
 ## Notes
